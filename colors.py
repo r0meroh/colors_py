@@ -11,7 +11,7 @@ t1.pu()
 
 
 # string of colors
-colors = ["blue", "red", "green", "yellow", "purple", "orange", "grey"]
+colors = ["blue", "red", "green", "yellow", "purple", "orange", "grey", "gold"]
 
 
 # circle_size = (50,59)
